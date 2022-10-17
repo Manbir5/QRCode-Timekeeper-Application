@@ -3,7 +3,7 @@
 
 ## Frontend
 
-This application is for a time management system where employees can clock in and out using qr codes and
+This application is for a time management system where employees can clock in and out using QR codes and
 where management can keep track of the timesheets. 
 
 The frontend of this project is hosted on https://frontend-for-heroku.herokuapp.com/
@@ -50,4 +50,4 @@ With the following request body in json form
 }  
 
 
-Authors: Robert Landowski, Manbir Singh, Yaline Sivekumaar
+Author: Manbir Singh
